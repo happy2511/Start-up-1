@@ -1,0 +1,133 @@
+header {
+  background-color: #F3FEFF; }
+  header .container .maker .maker-1 {
+    padding: 20px;
+    line-height: 35px;
+    display: flex;
+    justify-content: space-between; }
+    header .container .maker .maker-1 img {
+      width: 90px;
+      height: 34px; }
+    header .container .maker .maker-1 ul {
+      display: flex;
+      list-style: none;
+      gap: 20px; }
+      header .container .maker .maker-1 ul li a {
+        font-weight: 500;
+        font-size: 16px;
+        color: #969999; }
+    header .container .maker .maker-1 button {
+      border: none;
+      border-radius: 8px;
+      background-color: #35AFBF;
+      padding: 0px 20px; }
+      header .container .maker .maker-1 button a {
+        color: #FFFFFF; }
+
+.ideas {
+  padding: 1px;
+  background-color: #F3FEFF; }
+  .ideas .container .ideas-01 {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between; }
+    .ideas .container .ideas-01 .ideas-1 h1 {
+      width: 500px;
+      font-weight: 700;
+      font-size: 51px; }
+    .ideas .container .ideas-01 .ideas-1 p {
+      color: #707273;
+      font-weight: 400;
+      font-size: 21px; }
+    .ideas .container .ideas-01 .ideas-1 button {
+      border: none;
+      border-radius: 7px;
+      background-color: #35AFBF;
+      padding: 15px 25px; }
+      .ideas .container .ideas-01 .ideas-1 button a {
+        font-weight: 500;
+        color: #FFFFFF;
+        font-size: 21px; }
+
+.privede .container .privede-01 {
+  margin-top: 90px; }
+  .privede .container .privede-01 .privede-1 {
+    text-align: center; }
+  .privede .container .privede-01 .privede-2 {
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-around; }
+    .privede .container .privede-01 .privede-2 .wibe {
+      text-align: center; }
+      .privede .container .privede-01 .privede-2 .wibe .img-1 {
+        margin-left: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        width: 83px;
+        height: 83px;
+        background-color: #35AFBF; }
+      .privede .container .privede-01 .privede-2 .wibe h3 {
+        margin: 10px;
+        font-weight: 600;
+        font-size: 21px; }
+
+section .works {
+  background: url("../images/Background (3).png") no-repeat center center/cover;
+  height: 502px;
+  margin: 100px 0px; }
+  section .works .work-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    padding-top: 125px;
+    color: #FFF; }
+    section .works .work-content h2 {
+      width: 382px;
+      height: 46px;
+      font-weight: 700;
+      line-height: 45.6px;
+      margin-bottom: 15px; }
+    section .works .work-content p {
+      width: 700px;
+      height: 52px;
+      margin-bottom: 70px; }
+
+.always .container .always-01 .always-1 p {
+  font-weight: 500;
+  font-size: 32px; }
+
+.tried {
+  margin: 10px 0px; }
+  .tried .container .tried-1 {
+    margin: 20px 0px; }
+    .tried .container .tried-1 p {
+      font-weight: 700;
+      font-size: 38px; }
+    .tried .container .tried-1 button {
+      margin-top: 10px;
+      width: 162px;
+      height: 49px;
+      font-size: 19px; }
+
+footer {
+  background-color: #2C353E;
+  height: 590px; }
+  footer .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+    height: 450px;
+    margin-bottom: -50px; }
+    footer .footer-content .freelancer p, footer .footer-content .corporate p, footer .footer-content .agency p, footer .footer-content .exterprice p {
+      color: #707273; }
+    footer .footer-content .freelancer button, footer .footer-content .corporate button, footer .footer-content .agency button, footer .footer-content .exterprice button {
+      width: 138px;
+      height: 49px;
+      border-radius: 15px; }
+
+/*# sourceMappingURL=main.css.map */
